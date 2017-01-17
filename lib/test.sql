@@ -54,13 +54,13 @@ CREATE TABLE `report` (
 -- Records of report
 -- ----------------------------
 INSERT INTO `report` VALUES ('Giorgos Antoniou', 'polu kalos');
-INSERT INTO `employees` VALUES ('Antonia Kanelopoulou', 'argei na er8ei sth douleia');
-INSERT INTO `employees` VALUES ('Maria Parra ', 'olh mera paizei me to kinhto');
-INSERT INTO `employees` VALUES ('Nikos Mixas', 'pro8imos gia oles tis doulies');
-INSERT INTO `employees` VALUES ('Vivi Marouda','kalh sth douleia ths');
-INSERT INTO `employees` VALUES ('Xhstos Grivas', 'olumpiakakias');
-INSERT INTO `employees` VALUES ('Xristoforos Xaralampopoulos', 'koimatai or8ios');
-INSERT INTO `employees` VALUES ('Giwrgos Spiliopoulos', na parei proagogi');
+INSERT INTO `report` VALUES ('Antonia Kanelopoulou', 'argei na er8ei sth douleia');
+INSERT INTO `report`  VALUES ('Maria Parra ', 'olh mera paizei me to kinhto');
+INSERT INTO `report`  VALUES ('Nikos Mixas', 'pro8imos gia oles tis doulies');
+INSERT INTO `report`  VALUES ('Vivi Marouda','kalh sth douleia ths');
+INSERT INTO `report`  VALUES ('Xhstos Grivas', 'olumpiakakias');
+INSERT INTO `report`  VALUES ('Xristoforos Xaralampopoulos', 'koimatai or8ios');
+INSERT INTO `report`  VALUES ('Giwrgos Spiliopoulos', 'na parei proagogi');
 
 -- ----------------------------
 -- Table structure for users
