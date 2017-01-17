@@ -34,13 +34,12 @@ CREATE TABLE `employees` (
 -- ----------------------------
 INSERT INTO `employees` VALUES ('Giorgos Antoniou', '17/3/1983', 'Pliroforiki', '17/1/2017', '15874698');
 INSERT INTO `employees` VALUES ('Antonia Kanelopoulou', '10/1/1985', 'Anapti3i', '17/1/2017', '74300569');
-INSERT INTO `employees` VALUES ('Maria Parra ', '15/4/1986', 'Anapti3i, '17/1/2017', '25497581');
+INSERT INTO `employees` VALUES ('Maria Parra ', '15/4/1986', 'Anapti3i', '17/1/2017', '25497581');
 INSERT INTO `employees` VALUES ('Nikos Mixas', '18/2/1991', 'Dioikisi', '17/1/2017', '44776329');
 INSERT INTO `employees` VALUES ('Vivi Marouda', '6/7/1988', 'Logistirio', '17/1/2017', '87116234');
-INSERT INTO `employees` VALUES ('Xxhstos Giras', '13/5/1989', 'Logistirio', '17/1/2017', '52000462');
+INSERT INTO `employees` VALUES ('Xhstos Giras', '13/5/1989', 'Logistirio', '17/1/2017', '52000462');
 INSERT INTO `employees` VALUES ('Xristoforos Xaralampopoulos', '9/5/1990', 'Pliroforiki', '17/1/2017', '75884135');
 INSERT INTO `employees` VALUES ('Giwrgos Spiliopoulos', '9/9/1992', 'Pliroforiki','17/1/2017', '11004287');
-
 -- ----------------------------
 -- Table structure for report
 -- ----------------------------
