@@ -55,12 +55,12 @@ CREATE TABLE `report` (
 -- ----------------------------
 INSERT INTO `report` VALUES ('Giorgos Antoniou', 'polu kalos');
 INSERT INTO `employees` VALUES ('Antonia Kanelopoulou', 'argei na er8ei sth douleia');
-INSERT INTO `employees` VALUES ('Maria Parra ', '15/4/1986', 'olh mera paizei me to kinhto');
-INSERT INTO `employees` VALUES ('Nikos Mixas', '18/2/1991', 'pro8imos gia oles tis doulies');
-INSERT INTO `employees` VALUES ('Vivi Marouda', '6/7/1988', 'kalh sth douleia ths');
-INSERT INTO `employees` VALUES ('Xhstos Grivas', '13/5/1989', 'olumpiakakias');
-INSERT INTO `employees` VALUES ('Xristoforos Xaralampopoulos', '9/5/1990', 'koimatai or8ios');
-INSERT INTO `employees` VALUES ('Giwrgos Spiliopoulos', '9/10/1992', 'na parei proagogi');
+INSERT INTO `employees` VALUES ('Maria Parra ', 'olh mera paizei me to kinhto');
+INSERT INTO `employees` VALUES ('Nikos Mixas', 'pro8imos gia oles tis doulies');
+INSERT INTO `employees` VALUES ('Vivi Marouda','kalh sth douleia ths');
+INSERT INTO `employees` VALUES ('Xhstos Grivas', 'olumpiakakias');
+INSERT INTO `employees` VALUES ('Xristoforos Xaralampopoulos', 'koimatai or8ios');
+INSERT INTO `employees` VALUES ('Giwrgos Spiliopoulos', na parei proagogi');
 
 -- ----------------------------
 -- Table structure for users
